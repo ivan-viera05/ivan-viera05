@@ -31,10 +31,8 @@ Una colección de proyectos reales, soluciones prácticas y experimentos persona
 
 ```
 ## 🌐 Contacto y redes
-🔗 Sitio Web Personal
 
-💼 LinkedIn
-
-🐙 GitHub
-
-✉️ ivanvieraosvaldo@gmail.com
+- 🔗 [Sitio Web Personal](https://ivantechx.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ivanviera/)
+- 🐙 [GitHub](https://github.com/ivanviera)
+- ✉️ [ivanvieraosvaldo@gmail.com](mailto:ivanvieraosvaldo@gmail.com)
