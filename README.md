@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./banner.png" alt="Banner de Iván Viera" style="max-width: 100%;">
+  <img src="./2f0f91f8-db87-4d6a-a35e-58f032e0bdad.png" alt="Banner de Iván Viera" style="max-width: 100%;">
 </p>
 
 </p>
