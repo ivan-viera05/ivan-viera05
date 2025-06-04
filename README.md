@@ -2,7 +2,6 @@
   <img src="./2f0f91f8-db87-4d6a-a35e-58f032e0bdad.png" alt="Banner de Iván Viera" style="max-width: 100%;">
 </p>
 
-</p>
 ## 👨‍💻 Iván Viera
 
 Desarrollador Full Stack en formación, apasionado por crear soluciones que conecten tecnología y personas. Me encanta aprender, experimentar y construir herramientas que generen impacto real. Actualmente me encuentro finalizando la carrera de Analista Programador en el I.S.F.T N°93, combinando estudios formales con formación autodidacta en tecnologías modernas.
@@ -24,8 +23,18 @@ Una colección de proyectos reales, soluciones prácticas y experimentos persona
 ## 🧰 Tecnologías que domino
 
 ```bash
-🔹 Frontend: Angular · HTML5 · CSS3 · JavaScript · Bootstrap · React
-🔹 Backend: C# · .NET · Node.js · ASP.NET Web API
-🔹 Bases de Datos: SQL Server · PostgreSQL
-🔹 Herramientas: Git · Postman · Power BI · RASA IA · Windows Form
-🔹 Otros: Python · TensorFlow · Camunda BPM
+🔹 Frontend: Angular · HTML5 · CSS3 · JavaScript · Bootstrap · React  
+🔹 Backend: C# · .NET · Node.js · ASP.NET Web API  
+🔹 Bases de Datos: SQL Server · PostgreSQL  
+🔹 Herramientas: Git · Postman · Power BI · RASA IA · Windows Form  
+🔹 Otros: Python · TensorFlow · Camunda BPM  
+
+```
+## 🌐 Contacto y redes
+🔗 Sitio Web Personal
+
+💼 LinkedIn
+
+🐙 GitHub
+
+✉️ ivanvieraosvaldo@gmail.com
